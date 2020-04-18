@@ -6,4 +6,8 @@
 // import './lesson2-8'
 
 // import './lesson2-9'
-import './lesson2-10'
+// import './lesson2-10'
+// import './lesson2-11'
+// import './lesson2-12'
+// import './lesson2-13'
+import './lesson2-14'
